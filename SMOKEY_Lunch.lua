@@ -1,7 +1,7 @@
 SMODS.Atlas({
     key = "Cat",
-    px = 1506,
-    py = 1847,
+    px = 753,
+    py = 924,
     path = "cat.png",
 })
 
