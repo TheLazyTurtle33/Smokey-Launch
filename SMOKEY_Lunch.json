@@ -1,0 +1,11 @@
+{
+  "id": "smokey",
+  "name": "Smokey Launch",
+  "display_name": "Smokey Launch",
+  "author": ["LazyTurtle33"],
+  "description": "Addes DJ Soup and Salads cat to the loading screen",
+  "prefix": "smok_lunch",
+  "main_file": "SMOKEY_Lunch.lua",
+  "version": "0",
+  "priority": 9007199254740990
+}
